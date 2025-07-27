@@ -1,6 +1,6 @@
 # Reaction Widget
 
-##API:
+## API:
 
 - https://public.radio.co/stations/[radio-station-id]/status?v=1753630092000
 - https://public.radio.co/api/v2/[radio-station-id]/track/current
